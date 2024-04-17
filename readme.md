@@ -1,0 +1,1 @@
+Kleines Skript, welches mehrere PDFs nach einem bestimmten String durchsucht.
